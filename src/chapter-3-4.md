@@ -3,10 +3,10 @@ Case Studies on ChatGPT-Based Virtual Assistants
 
 ChatGPT has emerged as a powerful tool for building virtual assistants that can interact with users using natural language. Here are some case studies on ChatGPT-based virtual assistants:
 
-OpenAI's GPT-3
+OpenAI's GPT-3.5
 --------------
 
-OpenAI's GPT-3 is one of the most well-known examples of a ChatGPT-based virtual assistant. With its advanced natural language processing capabilities, GPT-3 can understand and respond to user queries in a conversational manner. It has been used to build a wide range of applications, including chatbots, writing assistants, and even virtual therapists.
+OpenAI's GPT-3.5 is one of the most well-known examples of a ChatGPT-based virtual assistant. With its advanced natural language processing capabilities, GPT-3.5 can understand and respond to user queries in a conversational manner. It has been used to build a wide range of applications, including chatbots, writing assistants, and even virtual therapists.
 
 Microsoft's XiaoIce
 -------------------

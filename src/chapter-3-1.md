@@ -8,10 +8,10 @@ OpenAI's GPT Series
 
 The development of ChatGPT can be traced back to OpenAI's GPT (Generative Pre-trained Transformer) series, which was first introduced in 2018. GPT-1 was trained on a large corpus of text data and used to generate human-like text. This was followed by GPT-2, which had even more advanced natural language processing capabilities and was able to generate coherent and contextually relevant text.
 
-GPT-3
+GPT-3.5
 -----
 
-OpenAI's GPT-3, released in 2020, is the most advanced version of the GPT series to date. It has been trained on an even larger corpus of text data, allowing it to understand and respond to user queries in a conversational manner. GPT-3 has been used to build a wide range of applications, including chatbots, writing assistants, and even virtual therapists.
+OpenAI's GPT-3.5, released in 2020, is the most advanced version of the GPT series to date. It has been trained on an even larger corpus of text data, allowing it to understand and respond to user queries in a conversational manner. GPT-3.5 has been used to build a wide range of applications, including chatbots, writing assistants, and even virtual therapists.
 
 Advancements in Natural Language Processing
 -------------------------------------------

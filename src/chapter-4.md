@@ -21,7 +21,7 @@ ChatGPT uses data to continuously improve virtual assistants by analyzing user q
 Case Studies Demonstrating ChatGPT's Effectiveness in Improving Virtual Assistants
 ----------------------------------------------------------------------------------
 
-Case studies have demonstrated the effectiveness of ChatGPT in improving virtual assistants. For example, OpenAI's GPT-3 has been used to build writing assistants, chatbots, and even virtual therapists, all of which have received positive feedback from users. Microsoft's XiaoIce, a popular virtual assistant in China, has been praised for its ability to provide emotional support and companionship to users.
+Case studies have demonstrated the effectiveness of ChatGPT in improving virtual assistants. For example, OpenAI's GPT-3.5 has been used to build writing assistants, chatbots, and even virtual therapists, all of which have received positive feedback from users. Microsoft's XiaoIce, a popular virtual assistant in China, has been praised for its ability to provide emotional support and companionship to users.
 
 Conclusion
 ----------
