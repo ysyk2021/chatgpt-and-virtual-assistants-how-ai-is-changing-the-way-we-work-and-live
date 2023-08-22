@@ -1,5 +1,4 @@
-Limitations and Future Research Directions
-======================================================
+
 
 While virtual assistants powered by AI technologies such as ChatGPT have shown great potential for improving our daily lives, there are still limitations to their capabilities. Here are some of the key limitations and future research directions for virtual assistants:
 

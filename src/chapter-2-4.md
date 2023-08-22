@@ -1,5 +1,4 @@
-An Overview of AI Techniques Used in Virtual Assistants
-===========================================================================================================
+
 
 Virtual assistants are becoming increasingly common in our daily lives, from Siri and Alexa to chatbots on customer support websites. These virtual assistants use a variety of artificial intelligence (AI) techniques to interpret user queries and provide accurate and relevant responses. Here's an overview of some of the AI techniques used in virtual assistants:
 

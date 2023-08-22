@@ -1,5 +1,4 @@
-Types of Virtual Assistants Used Today
-==========================================================================================
+
 
 Virtual assistants are becoming increasingly prevalent in our daily lives, with a wide range of applications across various industries. Here's an overview of some of the types of virtual assistants used today:
 

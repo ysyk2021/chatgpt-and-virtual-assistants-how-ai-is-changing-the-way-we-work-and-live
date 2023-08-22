@@ -1,5 +1,4 @@
-Multi-Turn Conversation Management with ChatGPT
-========================================================================================================================
+
 
 In this chapter, we will explore advanced topics in building chatbots and virtual assistants using ChatGPT. Specifically, we will focus on multi-turn conversation management, which is a critical aspect of chatbot and virtual assistant development.
 
