@@ -1,5 +1,4 @@
 
-
 Virtual assistants have a long and fascinating history that dates back several decades. Here's an overview of the history and evolution of virtual assistants:
 
 Early Days of Virtual Assistants

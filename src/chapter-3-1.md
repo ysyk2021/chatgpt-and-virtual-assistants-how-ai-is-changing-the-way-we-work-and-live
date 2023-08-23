@@ -1,5 +1,4 @@
 
-
 ChatGPT has emerged as a powerful tool for building virtual assistants that can interact with users using natural language. Here's a look at the origins of ChatGPT:
 
 OpenAI's GPT Series
