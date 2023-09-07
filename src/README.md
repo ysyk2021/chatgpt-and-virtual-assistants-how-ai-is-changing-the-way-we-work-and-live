@@ -10,3 +10,7 @@ Through this book, we aim to provide readers with an understanding of the capabi
 As the world continues to embrace AI, it is important to understand the opportunities and challenges that come with this technology. Join us on this journey as we explore the exciting developments in ChatGPT and virtual assistants and their impact on the future of work and life.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
